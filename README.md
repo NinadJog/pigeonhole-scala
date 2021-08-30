@@ -1,2 +1,2 @@
-# scala-exercises
-Scala solutions to several short problems
+# Pigeonhole Problem
+A solution for the pigeonhole problem in Scala 2
